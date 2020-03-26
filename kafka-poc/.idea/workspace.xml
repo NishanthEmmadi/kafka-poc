@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64684771-2816-4a62-ac71-cad998fb2c73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafkapoc" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafkapoc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafkapoc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafkapoc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1ZaOo0XUNLjgyxEoZ6BJ3LtsIye" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/demo/models" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="kafka-poc [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka-poc [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kafkapoc.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.kafka-poc [build]" />
+      <item itemvalue="Gradle.kafka-poc [clean]" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+        <item itemvalue="Gradle.kafka-poc [clean]" />
+        <item itemvalue="Gradle.kafka-poc [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64684771-2816-4a62-ac71-cad998fb2c73" name="Default Changelist" comment="" />
+      <created>1585073909879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585073909879</updated>
+      <workItem from="1585073911314" duration="5207000" />
+      <workItem from="1585181621210" duration="2879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585077856942">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="424" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077856942" />
+    <state x="773" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1585182264676">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585182264676" />
+    <state x="697" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585077853214">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="697" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077853214" />
+    <state x="746" y="385" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585075939536">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="746" y="385" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585075939536" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1585183656280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656280" />
+    <state width="918" height="269" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652631" />
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946827" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1585183656277">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656277" />
+    <state width="918" height="269" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652631" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946827" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1585183656276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656276" />
+    <state width="918" height="269" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652630" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946826" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1585183656279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656279" />
+    <state width="918" height="269" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652631" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946827" />
+    <state width="1878" height="304" key="GridCell.Tab.1.bottom" timestamp="1585183656286">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656286" />
+    <state width="918" height="269" key="GridCell.Tab.1.bottom/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652633" />
+    <state width="1878" height="269" key="GridCell.Tab.1.bottom/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946830" />
+    <state width="1878" height="304" key="GridCell.Tab.1.center" timestamp="1585183656283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.center/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656283" />
+    <state width="918" height="269" key="GridCell.Tab.1.center/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652632" />
+    <state width="1878" height="269" key="GridCell.Tab.1.center/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946828" />
+    <state width="1878" height="304" key="GridCell.Tab.1.left" timestamp="1585183656281">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.left/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656281" />
+    <state width="918" height="269" key="GridCell.Tab.1.left/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652632" />
+    <state width="1878" height="269" key="GridCell.Tab.1.left/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946828" />
+    <state width="1878" height="304" key="GridCell.Tab.1.right" timestamp="1585183656284">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.right/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183656284" />
+    <state width="918" height="269" key="GridCell.Tab.1.right/0.23.1920.1057/1920.23.900.1577/240.1103.1680.963@240.1103.1680.963" timestamp="1585094652632" />
+    <state width="1878" height="269" key="GridCell.Tab.1.right/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077946829" />
+    <state width="1878" height="375" key="GridCell.Tab.2.bottom" timestamp="1585183244594">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183244594" />
+    <state width="1878" height="375" key="GridCell.Tab.2.center" timestamp="1585183244592">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.2.center/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183244592" />
+    <state width="1878" height="375" key="GridCell.Tab.2.left" timestamp="1585183244591">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.2.left/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183244591" />
+    <state width="1878" height="375" key="GridCell.Tab.2.right" timestamp="1585183244593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.2.right/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585183244593" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1585182326683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585182326683" />
+    <state x="167" y="1103" key="com.intellij.ide.util.TipDialog" timestamp="1585181628699">
+      <screen x="167" y="1103" width="1680" height="963" />
+    </state>
+    <state x="167" y="1103" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/1920.224.900.1577/167.1103.1680.963@167.1103.1680.963" timestamp="1585181628699" />
+    <state x="625" y="240" width="670" height="675" key="run.anything.popup" timestamp="1585077866456">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="625" y="240" width="670" height="675" key="run.anything.popup/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585077866456" />
+    <state x="625" y="238" key="search.everywhere.popup" timestamp="1585182299690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="238" key="search.everywhere.popup/0.0.1920.1080/1920.201.900.1600/167.1080.1680.1050@0.0.1920.1080" timestamp="1585182299690" />
+    <state x="625" y="242" key="search.everywhere.popup/0.23.1920.993/167.-1027.1680.1027@0.23.1920.993" timestamp="1585074720957" />
+  </component>
+</project>
